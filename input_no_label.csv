@@ -1,0 +1,101 @@
+gender,age,hypertension,heart_disease,smoking_history,bmi,HbA1c_level,blood_glucose_level
+Male,85,1,1,No Info,38.85,5.1,121
+Female,20,0,0,not current,32.89,4.7,125
+Female,83,0,1,never,30.04,6.7,162
+Male,54,0,0,not current,19.24,4.7,148
+Female,46,0,1,former,19.49,5.6,178
+Female,19,1,0,not current,24.93,9.3,75
+Female,38,0,0,No Info,32.39,6.0,188
+Female,69,0,0,current,23.12,6.7,241
+Male,63,0,0,ever,32.76,7.8,113
+Male,80,0,0,No Info,39.1,6.2,120
+Female,80,1,0,never,33.75,9.2,83
+Female,44,1,1,No Info,39.0,4.8,191
+Male,64,1,1,ever,22.74,8.2,156
+Female,59,1,0,never,32.48,5.9,86
+Female,66,1,1,No Info,39.07,6.4,124
+Female,85,1,1,No Info,35.32,5.0,75
+Male,28,0,0,current,26.66,9.5,190
+Male,75,0,0,current,37.24,4.7,91
+Female,38,1,1,former,33.17,4.8,205
+Male,68,1,0,current,26.68,9.5,231
+Female,69,1,1,ever,31.4,7.1,151
+Female,22,0,1,never,39.24,6.0,89
+Female,37,1,0,current,31.21,7.9,84
+Male,38,1,1,ever,27.61,5.1,99
+Female,20,1,1,No Info,28.27,7.4,70
+Male,41,1,0,not current,22.24,7.3,124
+Male,27,1,1,not current,26.95,6.4,105
+Male,37,1,0,never,37.27,7.6,192
+Female,72,1,1,No Info,28.51,8.9,247
+Male,83,0,0,ever,22.01,9.0,172
+Male,71,0,1,never,35.37,9.1,82
+Female,42,0,0,former,23.96,7.1,227
+Male,78,1,0,current,19.96,9.6,102
+Female,25,1,0,No Info,27.59,5.0,104
+Male,18,0,1,No Info,29.09,7.1,208
+Female,52,0,1,current,34.5,6.3,227
+Male,62,0,1,current,18.69,6.1,239
+Female,57,0,1,not current,19.41,5.6,109
+Male,61,1,1,never,26.0,4.9,105
+Female,78,1,0,current,22.76,5.6,244
+Male,34,0,1,former,36.27,5.0,222
+Female,83,1,1,current,37.04,9.1,229
+Female,74,0,0,never,30.83,8.4,150
+Male,87,1,0,ever,20.71,6.0,209
+Female,47,1,0,never,26.07,7.3,182
+Female,80,0,0,No Info,23.78,5.7,144
+Female,62,1,0,ever,32.49,6.5,86
+Female,68,1,0,ever,22.49,6.0,164
+Female,25,0,1,ever,19.38,7.4,250
+Male,35,0,0,ever,38.52,7.4,215
+Male,77,1,1,No Info,33.93,6.7,114
+Male,19,1,1,former,33.19,5.6,105
+Female,30,0,0,ever,32.17,9.0,170
+Male,32,1,0,No Info,32.7,10.0,115
+Female,72,1,0,never,31.19,6.8,105
+Male,18,1,1,current,36.97,8.2,221
+Male,52,0,0,ever,39.11,5.3,183
+Female,56,0,1,No Info,28.82,4.8,136
+Female,67,1,0,No Info,29.39,6.2,212
+Male,55,0,0,ever,19.46,6.3,196
+Female,51,1,1,not current,38.91,9.5,120
+Male,52,0,0,No Info,34.7,7.5,74
+Male,77,1,1,never,20.54,9.7,145
+Male,42,1,1,No Info,18.11,4.8,129
+Female,45,0,0,ever,31.76,5.4,78
+Male,59,1,0,No Info,38.55,5.4,236
+Male,76,1,1,No Info,31.69,9.0,172
+Female,61,1,0,No Info,35.94,6.4,233
+Female,58,0,0,current,26.68,7.7,213
+Male,83,0,1,No Info,35.3,4.8,197
+Female,87,0,0,ever,20.95,4.6,211
+Female,82,1,0,not current,27.23,4.7,212
+Female,55,1,0,current,28.25,5.1,225
+Male,35,0,1,not current,21.14,9.3,208
+Male,62,0,1,never,32.28,8.6,140
+Female,39,0,1,not current,27.11,9.4,218
+Male,49,1,1,No Info,33.14,6.2,82
+Male,24,1,1,never,38.0,8.4,158
+Female,78,0,1,ever,33.67,7.3,206
+Male,31,1,0,ever,29.58,7.6,218
+Male,35,1,0,current,30.24,6.3,96
+Female,69,1,0,never,39.66,4.8,219
+Male,49,0,0,former,22.92,5.5,112
+Female,41,0,0,ever,38.18,5.8,171
+Female,70,0,1,No Info,21.42,6.2,248
+Female,53,0,1,never,26.43,8.9,95
+Male,73,1,0,former,30.09,4.7,226
+Female,21,1,1,ever,29.91,4.6,110
+Male,66,1,0,not current,39.09,8.5,193
+Male,85,1,1,ever,34.01,7.3,188
+Female,57,0,1,current,30.22,8.9,114
+Female,19,0,1,ever,25.35,9.7,93
+Male,90,0,0,current,35.37,7.1,179
+Male,75,0,0,not current,21.64,8.1,207
+Male,71,0,0,ever,30.47,5.6,142
+Female,51,0,0,ever,31.83,9.7,247
+Female,61,1,1,current,34.88,6.0,160
+Male,72,1,0,not current,32.83,7.8,110
+Male,54,1,1,current,18.79,9.0,183
+Female,45,1,1,current,31.21,7.7,186
