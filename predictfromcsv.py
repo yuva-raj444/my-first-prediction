@@ -9,7 +9,7 @@ le_gender = encoders['gender']
 le_smoke = encoders['smoking_history']
 
 # Load CSV (might include 'diabetes' column - remove it if present)
-df = pd.read_csv("diabetes_prediction_dataset.csv")
+df = pd.read_csv("input_no_label.csv")
 if 'diabetes' in df.columns:
     df = df.drop(columns=['diabetes'])
 
